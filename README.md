@@ -210,3 +210,7 @@ requests and responses provided above illustrate how each endpoint will function
 what kind of data it will accept or return. With this API design, StudyNotion will be able to
 provide a smooth user experience while ensuring security and stability.
 
+
+Author: Samir
+
+NIT SICHAR
